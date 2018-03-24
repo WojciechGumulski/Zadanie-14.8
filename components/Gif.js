@@ -1,5 +1,5 @@
 
-var GIPHY_LOADING_URL = 'https://giphy.com/gifs/youtube-loading-gif-3o7bu3XilJ5BOiSGic';
+var GIPHY_LOADING_URL = 'https://tenor.com/search/loader-gif-images-gifs';
 var styles = {
 	minHeight: '310px',
   	margin: '0.5em'
